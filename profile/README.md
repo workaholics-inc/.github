@@ -7,6 +7,12 @@
 
 <p align="center"><b>Build things. Share them. Help each other.</b></p>
 
+<p align="center">
+  <a href="https://www.instagram.com/workaholics.inc/">Instagram</a> ·
+  <a href="https://x.com/workaholicsinc">X</a> ·
+  <a href="https://www.linkedin.com/groups/40227003/">LinkedIn group</a>
+</p>
+
 <br>
 
 Workaholics is a small, invite-only, Persian-speaking community of people who build things: products, projects, research, startups, and things that don't have the right name yet.
